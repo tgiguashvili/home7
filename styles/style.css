@@ -186,3 +186,210 @@ margin-left: 90px;
 .sectionimage{
     width: 618px;
 }
+
+.section-two{
+    width: 1440px;
+    margin-top: 30px;
+    margin-left: 30px;
+
+}
+
+.sc-two-p{
+    width: 285px;
+    height: 32px;
+    left: calc(50% - 285px/2 + 0.5px);
+    top: 0px;
+    font-family: 'DM Sans';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 32px;
+    align-items: center;
+    text-align: center;
+    color: #FFFFFF;
+
+}
+
+.justify-center{
+    justify-content: center;
+}
+
+.section-two-width{
+    width: 20%;
+}
+
+.sec2-images{
+    margin-top: 54px;
+    margin-left: 70px;
+}
+
+.sec2-h1{
+    width: 534px;
+    height: 56px;
+    left: calc(50% - 534px/2);
+    top: 1245px;
+    font-family: 'DM Sans';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 42px;
+    line-height: 55px;
+    align-items: center;
+    color: #FFFFFF;
+    margin-top: 173px;
+
+}
+
+.sec2-p{
+    width: 496px;
+    height: 64px;
+    left: calc(50% - 496px/2);
+    top: 1316px;
+    font-family: 'DM Sans';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 32px;
+    align-items: center;
+    text-align: center;
+    color: #FFFFFF;
+    margin-top: 15px;
+}
+.sec3cont{
+
+}
+.sec3flex{
+    display: flex;
+    
+}
+.banner1h1p1{
+    width: 325px;
+    height: 295px;
+    margin-left: 166px;
+    margin-top: 80px;
+    background: rgba(255, 255, 255, 0.1);
+    border-radius: 40px;
+}
+.banner1cont{
+    margin-left: 23px;
+    margin-top: 48px;
+
+}
+.ban1h1{
+    font-family: 'DM Sans';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 18px;
+    line-height: 26px;
+    align-items: center;
+    letter-spacing: 0.9px;
+    text-transform: uppercase;
+    color: #FFFFFF;
+    margin-top: 20px;
+}
+.banner1P1{
+    font-family: 'DM Sans';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 26px;
+    align-items: center;
+    color: #FFFFFF;
+    margin-top: 7px;
+}
+.BANN2CONT2{
+    width: 325px;
+    height: 295px;
+    margin-top: 80px;
+    background: rgba(255, 255, 255, 0.1);
+    border-radius: 40px;
+}
+.banner2content{
+    margin-left: 23px;
+    padding-top: 48px;
+}
+.bigban{
+    width: 477px;
+    height: 622px;
+    margin-left: 27px;
+    margin-top: 80px;
+    background: #88B702;
+    border-radius: 40px;
+}
+.bigbanh1{
+    font-family: 'DM Sans';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 18px;
+    line-height: 26px;
+    align-items: center;
+    letter-spacing: 0.9px;
+    text-transform: uppercase;
+    color: #FFFFFF;
+    
+}
+.bigbanp{
+    font-family: 'DM Sans';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 26px;
+    align-items: center;
+    color: #FFFFFF;
+    margin-top: 7px;
+}
+.bigbancontent{
+    padding-top: 50px;
+    padding-left: 33px;
+}
+.bannerimg{
+    padding-left: 25px;
+    padding-top: 47px;
+}
+.ban3{
+    width: 325px;
+    height: 295px;
+    margin-top: 80px;
+    background: rgba(255, 255, 255, 0.1);
+    border-radius: 40px;
+    margin-left: 26px;
+    
+}
+
+.ban3ban1content{
+    padding-top: 40px;
+    margin-left: 25px;
+}
+.ban3h1{
+    font-family: 'DM Sans';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 18px;
+    line-height: 26px;
+    align-items: center;
+    letter-spacing: 0.9px;
+    text-transform: uppercase;
+    color: #FFFFFF;
+    padding-top: 20px;
+}
+.ban3p{
+    font-family: 'DM Sans';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 26px;
+    align-items: center;
+    color: #FFFFFF;
+    margin-top: 7px;
+}
+.banner4{
+    width: 325px;
+    height: 295px;
+    margin-top: 40px;
+    background: rgba(255, 255, 255, 0.1);
+    border-radius: 40px;
+    margin-left: 26px;
+}
+.banner4content{
+    padding-left: 25px;
+    padding-top: 40px;
+}
