@@ -1,21 +1,23 @@
 *{
     margin: 0;
     padding: 0;
+    border: 1px,solid red;
 }
 
 
 .headcont{
-    width: 1440px;
+    width: 1180px;
+    margin: auto;
 }
+
 .logocont{
     display: flex;
     justify-content: space-between;
     align-items: center;
     gap: 4px;
     width: 154px;
-    margin-left: 157px;
-    margin-top: 51px;
-    margin-bottom: 51px;
+    margin-top: 33px;
+    margin-bottom: 33px;
 }
 
 .row{
@@ -33,7 +35,7 @@
     list-style: none;
     gap: 27px;
     justify-content: flex-start;
-    margin-left: -80px;    
+    margin-left: 33px;    
     font-family: 'DM Sans';
     font-style: normal;
     font-weight: 500;
@@ -41,7 +43,7 @@
     line-height: 16px;
     align-items: center;
     letter-spacing: 1.4px;
-    text-decoration-line: underline;
+    text-decoration: none;
     text-transform: uppercase;
     color: #FFFFFF;
 }
@@ -49,6 +51,7 @@
 .body-back{
     background-image: url(../img/backcover.jpg);
     background-size: cover;
+    
 }
 .logodiv{
     margin-left: 32px;
@@ -65,7 +68,7 @@
     line-height: 16px;
     align-items: center;
     letter-spacing: 1.4px;
-    text-decoration-line: underline;
+    text-decoration: none;
     text-transform: uppercase;
     color: #FFFFFF;
     justify-content: left;
@@ -110,12 +113,12 @@ margin-left: 90px;
 
 .maincont{
     display: flex;
-
+    width: 1180px;
+    margin: auto;
 }
 
 .content{
     width: 60%;
-    margin-left: 137px;
     margin-top: 206px;
     
 }
@@ -186,7 +189,8 @@ margin-left: 90px;
 }
 
 .sectionimage{
-    width: 1080px;
+    width: 40%;
+    overflow: hidden;
 }
 .laptimg-width{
     width: 443px;
@@ -194,9 +198,10 @@ margin-left: 90px;
 }
 
 .section-two{
-    width: 1440px;
-    margin-top: 30px;
-    margin-left: 30px;
+    width: 1180px;
+    margin: auto;
+    margin-top: 50px;
+    
 
 }
 
@@ -216,6 +221,10 @@ margin-left: 90px;
 
 }
 
+.sec2{
+    width: 1180px;
+    margin: auto;
+}
 .justify-center{
     justify-content: center;
 }
@@ -261,16 +270,19 @@ margin-left: 90px;
     margin-top: 15px;
 }
 .sec3cont{
+    width: 1180px;
+    margin: auto;
 
 }
 .sec3flex{
     display: flex;
     
+    
 }
 .banner1h1p1{
     width: 325px;
     height: 295px;
-    margin-left: 166px;
+    margin-left: 4px;
     margin-top: 80px;
     background: rgba(255, 255, 255, 0.1);
     border-radius: 40px;
